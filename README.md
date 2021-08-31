@@ -15,4 +15,4 @@
 
 ## Webpack
 
-1. [tyepscript + react](https://github.com/ShaunZh/Blog/tree/main/webpack-config)
+1. [tyepscript + react](https://github.com/ShaunZh/Blog/issues/5)
