@@ -1,7 +1,9 @@
-webpack.config
+# react + typescript webpack config
 
-## webpack `mode`选项
+1. 安装依赖：`npm i`
+2. 生成 dll： `npm run dll`
+3. 运行：npm run dev
+4. 打包：npm run build
 
-- development：将 `process.env.NODE_ENV` 的值设置为 `development`
-
-- production：将 `process.env.NODE_ENV` 的值设置为 `production`，启用 `FlagDependencyUsagePlugin`, `FlagIncludedChunksPlugin`·`, `·`ModuleConcatenationPlugin`·`, `·`NoEmitOnErrorsPlugin`, `OccurrenceOrderPlugin`, `SideEffectsFlagPlugin` 和 `UglifyJsPlugin`
+**分析 bundle**
+`npm run analyz`

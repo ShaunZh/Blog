@@ -15,13 +15,4 @@
 
 ## Webpack
 
-1. [tyepscript + react]()
-
-react + typescript webpack config
-
-1. 安装依赖：`npm i`
-2. 生成 dll： `npm run dll`
-3. 运行：npm run dev
-
-**分析 bundle**
-`npm run analyz`
+1. [tyepscript + react](https://github.com/ShaunZh/Blog/tree/main/webpack-config)
