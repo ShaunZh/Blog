@@ -25,3 +25,7 @@
 ## 浏览器
 
 1. [浏览器缓存机制](https://github.com/ShaunZh/Blog/issues/8)
+
+## 思路
+
+1. [”如何在编程中克服直觉“——来自 replit 创始人 Amjad Masad 的分享](https://github.com/ShaunZh/Blog/issues/9)
