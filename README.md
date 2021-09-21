@@ -30,3 +30,8 @@
 
 1. [”如何在编程中克服直觉“——来自 replit 创始人 Amjad Masad 的分享](https://github.com/ShaunZh/Blog/issues/9)
 2. ["外包项目三年学到了什么？"](https://github.com/ShaunZh/Blog/issues/10)
+
+## 开发记录
+
+1. [解决引入ant.design.mobile时运行报错](https://github.com/ShaunZh/Blog/issues/11)
+
