@@ -25,6 +25,7 @@
 ## 浏览器
 
 1. [浏览器缓存机制](https://github.com/ShaunZh/Blog/issues/8)
+2. [(译)深入了解现代浏览器一](https://github.com/ShaunZh/Blog/issues/12)
 
 ## Thinking
 
