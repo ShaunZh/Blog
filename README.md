@@ -9,6 +9,7 @@
 ## CSS 相关
 
 1. [大杂烩](https://github.com/ShaunZh/Blog/issues/1)
+2. [iOS端使用伪元素::after实现下划线有可能存在的兼容问题](https://github.com/ShaunZh/Blog/issues/14)
 
 ## React
 
