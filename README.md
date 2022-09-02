@@ -4,6 +4,7 @@
 
 1. [闭包](https://github.com/ShaunZh/Blog/issues/2)
 2. [Scope、Lexical Scope、Scope Chain、Lexical Environment、Execution Context ](https://github.com/ShaunZh/Blog/issues/4)
+3. [JSON.parse(JSON.stringify(obj))深拷贝弊端](https://github.com/ShaunZh/Blog/issues/13)
 
 ## CSS 相关
 
