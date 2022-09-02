@@ -23,6 +23,7 @@
 
 1. [域名解析](https://github.com/ShaunZh/Blog/issues/6)
 2. [http 协议](https://github.com/ShaunZh/Blog/issues/7)
+2. [Nginx本地前端代理注意](https://github.com/ShaunZh/Blog/issues/15)
 
 ## 浏览器
 
