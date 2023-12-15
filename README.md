@@ -1,4 +1,4 @@
-# 一个记录的地方
+# A place for writing
 
 ## JavaScript
 
